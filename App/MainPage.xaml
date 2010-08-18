@@ -35,7 +35,7 @@
                 <ListBox.ItemTemplate>
                     <DataTemplate>
                         <StackPanel x:Name="DataTemplateStackPanel" Orientation="Horizontal">
-                            <Image x:Name="ItemImage" Source="/WindowsPhoneListApp;component/Images/ArrowImg.png" Height="43" Width="43" VerticalAlignment="Top" Margin="10,0,20,0"/>
+                            <Image x:Name="ItemImage" Source="Images/ArrowImg.png" Height="43" Width="43" VerticalAlignment="Top" Margin="10,0,20,0"/>
                             <StackPanel>
                                 <TextBlock x:Name="ItemText" Text="{Binding LineOne}" Margin="-2,-13,0,0" Style="{StaticResource PhoneTextExtraLargeStyle}"/>
                                 <TextBlock x:Name="DetailsText" Text="{Binding LineTwo}" Margin="0,-6,0,3" Style="{StaticResource PhoneTextSubtleStyle}"/>

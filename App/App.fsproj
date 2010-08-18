@@ -53,9 +53,6 @@
     <Compile Include="ViewModels\ItemViewModel.fs" />
     <Compile Include="ViewModels\MainViewModel.fs" />
     <Resource Include="SampleData\MainViewModelSampleData.xaml" />
-    <Content Include="Images\ArrowImg.png">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
     <Compile Include="AppLogic.fs" />
     <Resource Include="DetailsPage.xaml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>

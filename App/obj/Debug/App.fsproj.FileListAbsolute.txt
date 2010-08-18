@@ -8,4 +8,3 @@ C:\git\FSharpWindowsPhoneListAppAndHost\App\obj\Debug\ResolveAssemblyReference.c
 C:\git\FSharpWindowsPhoneListAppAndHost\App\obj\Debug\WindowsPhoneListApp.g.resources
 C:\git\FSharpWindowsPhoneListAppAndHost\App\obj\Debug\WindowsPhoneListApp.dll
 C:\git\FSharpWindowsPhoneListAppAndHost\App\obj\Debug\WindowsPhoneListApp.pdb
-C:\git\FSharpWindowsPhoneListAppAndHost\App\bin\Debug\Images\ArrowImg.png
