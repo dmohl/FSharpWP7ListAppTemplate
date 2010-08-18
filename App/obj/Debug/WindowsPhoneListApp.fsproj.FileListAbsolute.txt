@@ -1,0 +1,9 @@
+C:\fsharp\mqfsharp\users\Common\DemoApps\FSharpWindowsPhoneListAppAndHostDemo\WindowsPhoneListApp\bin\Debug\WindowsPhoneListApp.xml
+C:\fsharp\mqfsharp\users\Common\DemoApps\FSharpWindowsPhoneListAppAndHostDemo\WindowsPhoneListApp\bin\Debug\WindowsPhoneListApp.dll
+C:\fsharp\mqfsharp\users\Common\DemoApps\FSharpWindowsPhoneListAppAndHostDemo\WindowsPhoneListApp\bin\Debug\WindowsPhoneListApp.pdb
+C:\fsharp\mqfsharp\users\Common\DemoApps\FSharpWindowsPhoneListAppAndHostDemo\WindowsPhoneListApp\bin\Debug\FSharp.Core.dll
+C:\fsharp\mqfsharp\users\Common\DemoApps\FSharpWindowsPhoneListAppAndHostDemo\WindowsPhoneListApp\bin\Debug\FSharp.Core.xml
+C:\fsharp\mqfsharp\users\Common\DemoApps\FSharpWindowsPhoneListAppAndHostDemo\WindowsPhoneListApp\obj\Debug\ResolveAssemblyReference.cache
+C:\fsharp\mqfsharp\users\Common\DemoApps\FSharpWindowsPhoneListAppAndHostDemo\WindowsPhoneListApp\obj\Debug\WindowsPhoneListApp.g.resources
+C:\fsharp\mqfsharp\users\Common\DemoApps\FSharpWindowsPhoneListAppAndHostDemo\WindowsPhoneListApp\obj\Debug\WindowsPhoneListApp.dll
+C:\fsharp\mqfsharp\users\Common\DemoApps\FSharpWindowsPhoneListAppAndHostDemo\WindowsPhoneListApp\obj\Debug\WindowsPhoneListApp.pdb

@@ -1,0 +1,14 @@
+<model:MainViewModel 
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"       
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:model="clr-namespace:WindowsPhoneListApp;assembly=WindowsPhoneListApp" 
+    SampleProperty="Sample Text Property Value">
+
+    <model:MainViewModel.Items>
+        <model:ItemViewModel LineOne="www.fsharp.net" LineTwo="F# is great" LineThree="F# (pronounced F Sharp) is a multi-paradigm programming language, targeting the .NET Framework, that encompasses functional programming as well as imperative object-oriented programming disciplines"/>
+        <model:ItemViewModel LineOne="www.hubfs.net" LineTwo="F# - fun is our keyword" LineThree="F# is a strongly typed language that uses type inference. As a result, data types need not be explicitly declared by the programmer; they will be deduced by the compiler during compilation."/>
+        <model:ItemViewModel LineOne="www.bing.com" LineTwo="F# on the phone" LineThree="Come to this session to understand how F#, the new programming language from Microsoft, can be used to achieve huge performance gains in applications managing multiple, asynchronous tasks."/>
+    </model:MainViewModel.Items>
+
+    
+</model:MainViewModel>

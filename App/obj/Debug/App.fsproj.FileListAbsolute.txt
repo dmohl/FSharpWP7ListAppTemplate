@@ -1,0 +1,11 @@
+C:\git\FSharpWindowsPhoneListAppAndHost\App\bin\Debug\Dependencies\FSharp.Core.dll
+C:\git\FSharpWindowsPhoneListAppAndHost\App\bin\Debug\WindowsPhoneListApp.xml
+C:\git\FSharpWindowsPhoneListAppAndHost\App\bin\Debug\WindowsPhoneListApp.dll
+C:\git\FSharpWindowsPhoneListAppAndHost\App\bin\Debug\WindowsPhoneListApp.pdb
+C:\git\FSharpWindowsPhoneListAppAndHost\App\bin\Debug\FSharp.Core.dll
+C:\git\FSharpWindowsPhoneListAppAndHost\App\bin\Debug\FSharp.Core.xml
+C:\git\FSharpWindowsPhoneListAppAndHost\App\obj\Debug\ResolveAssemblyReference.cache
+C:\git\FSharpWindowsPhoneListAppAndHost\App\obj\Debug\WindowsPhoneListApp.g.resources
+C:\git\FSharpWindowsPhoneListAppAndHost\App\obj\Debug\WindowsPhoneListApp.dll
+C:\git\FSharpWindowsPhoneListAppAndHost\App\obj\Debug\WindowsPhoneListApp.pdb
+C:\git\FSharpWindowsPhoneListAppAndHost\App\bin\Debug\Images\ArrowImg.png

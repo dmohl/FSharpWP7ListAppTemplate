@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<assembly><name>WindowsPhoneListApp</name></assembly>
+<members>
+<member name="">
+
+</member>
+<member name="T:WindowsPhoneListApp.App">
+<summary>
+ One instance of this type is created in the application host project.
+</summary>
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="P:WindowsPhoneListApp.ItemViewModel.LineTwo(System.String)">
+<summary>
+ Sample ViewModel property this property is used in the view to display its value open a Binding.
+</summary>
+</member>
+<member name="P:WindowsPhoneListApp.ItemViewModel.LineThree(System.String)">
+<summary>
+ Sample ViewModel property this property is used in the view to display its value open a Binding.
+</summary>
+</member>
+<member name="P:WindowsPhoneListApp.ItemViewModel.LineOne(System.String)">
+<summary>
+ Sample ViewModel property this property is used in the view to display its value open a Binding.
+</summary>
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="P:WindowsPhoneListApp.ItemViewModel.LineTwo">
+<summary>
+ Sample ViewModel property this property is used in the view to display its value open a Binding.
+</summary>
+</member>
+<member name="P:WindowsPhoneListApp.ItemViewModel.LineThree">
+<summary>
+ Sample ViewModel property this property is used in the view to display its value open a Binding.
+</summary>
+</member>
+<member name="P:WindowsPhoneListApp.ItemViewModel.LineOne">
+<summary>
+ Sample ViewModel property this property is used in the view to display its value open a Binding.
+</summary>
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="P:WindowsPhoneListApp.MainViewModel.SampleProperty(System.String)">
+<summary>
+ Sample MainModel property. This property is used in the view to display its value open a Binding.
+</summary>
+</member>
+<member name="">
+
+</member>
+<member name="P:WindowsPhoneListApp.MainViewModel.SampleProperty">
+<summary>
+ Sample MainModel property. This property is used in the view to display its value open a Binding.
+</summary>
+</member>
+<member name="">
+
+</member>
+<member name="P:WindowsPhoneListApp.MainViewModel.Items">
+<summary>
+ Sample MainModel collection property. This property is used in the view to display its value open a Binding.
+</summary>
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="T:WindowsPhoneListApp.Extensions">
+
+</member>
+<member name="M:WindowsPhoneListApp.Utilities.op_Dynamic``1(System.Object,System.String)">
+<summary>
+ This is an implementation of the dynamic lookup operator for binding
+ Xaml objects by name.
+</summary>
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="T:WindowsPhoneListApp.Utilities">
+
+</member>
+<member name="">
+
+</member>
+<member name="T:WindowsPhoneListApp.ViewModel">
+
+</member>
+</members>
+</doc>
