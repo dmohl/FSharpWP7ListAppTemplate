@@ -7,3 +7,12 @@ C:\git\FSharpWindowsPhoneListAppAndHost\FSharpWP7ListAppVSIX\obj\Release\Resolve
 C:\git\FSharpWindowsPhoneListAppAndHost\FSharpWP7ListAppVSIX\obj\Release\FSharpWP7ListAppVSIX.dll
 C:\git\FSharpWindowsPhoneListAppAndHost\FSharpWP7ListAppVSIX\obj\Release\FSharpWP7ListAppVSIX.pdb
 C:\git\FSharpWindowsPhoneListAppAndHost\FSharpWP7ListAppVSIX\obj\Release\extension.vsixmanifest
+C:\git\FSharpWP7ListAppTemplate\FSharpWP7ListAppVSIX\bin\Release\ProjectTemplates\WP7\FSharpWP7ListApp.zip
+C:\git\FSharpWP7ListAppTemplate\FSharpWP7ListAppVSIX\bin\Release\FSharpWP7ListAppScreenShot.png
+C:\git\FSharpWP7ListAppTemplate\FSharpWP7ListAppVSIX\bin\Release\MicrosoftPublicLicense.txt
+C:\git\FSharpWP7ListAppTemplate\FSharpWP7ListAppVSIX\bin\Release\FSharpWP7ListAppVSIX.vsix
+C:\git\FSharpWP7ListAppTemplate\FSharpWP7ListAppVSIX\bin\Release\extension.vsixmanifest
+C:\git\FSharpWP7ListAppTemplate\FSharpWP7ListAppVSIX\obj\Release\ResolveAssemblyReference.cache
+C:\git\FSharpWP7ListAppTemplate\FSharpWP7ListAppVSIX\obj\Release\FSharpWP7ListAppVSIX.dll
+C:\git\FSharpWP7ListAppTemplate\FSharpWP7ListAppVSIX\obj\Release\FSharpWP7ListAppVSIX.pdb
+C:\git\FSharpWP7ListAppTemplate\FSharpWP7ListAppVSIX\obj\Release\extension.vsixmanifest
