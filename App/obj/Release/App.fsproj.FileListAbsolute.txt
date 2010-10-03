@@ -1,13 +1,3 @@
-C:\git\FSharpWindowsPhoneListAppAndHost\App\bin\Release\Dependencies\FSharp.Core.dll
-C:\git\FSharpWindowsPhoneListAppAndHost\App\bin\Release\WindowsPhoneListApp.xml
-C:\git\FSharpWindowsPhoneListAppAndHost\App\bin\Release\WindowsPhoneListApp.dll
-C:\git\FSharpWindowsPhoneListAppAndHost\App\bin\Release\WindowsPhoneListApp.pdb
-C:\git\FSharpWindowsPhoneListAppAndHost\App\bin\Release\FSharp.Core.dll
-C:\git\FSharpWindowsPhoneListAppAndHost\App\bin\Release\FSharp.Core.xml
-C:\git\FSharpWindowsPhoneListAppAndHost\App\obj\Release\ResolveAssemblyReference.cache
-C:\git\FSharpWindowsPhoneListAppAndHost\App\obj\Release\WindowsPhoneListApp.g.resources
-C:\git\FSharpWindowsPhoneListAppAndHost\App\obj\Release\WindowsPhoneListApp.dll
-C:\git\FSharpWindowsPhoneListAppAndHost\App\obj\Release\WindowsPhoneListApp.pdb
 C:\git\FSharpWP7ListAppTemplate\App\bin\Release\Dependencies\FSharp.Core.dll
 C:\git\FSharpWP7ListAppTemplate\App\bin\Release\WindowsPhoneListApp.xml
 C:\git\FSharpWP7ListAppTemplate\App\bin\Release\WindowsPhoneListApp.dll
