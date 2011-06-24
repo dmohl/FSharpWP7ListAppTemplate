@@ -1,12 +1,12 @@
-﻿<xapCache source="C:\git\FSharpWP7ListAppTemplate\AppHost\Bin\Release\WindowsPhoneListAppHost.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="10/3/2010 2:49:25 PM">
-  <file source="C:\git\FSharpWP7ListAppTemplate\AppHost\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="9/18/2010 3:12:01 PM" />
-  <file source="C:\git\FSharpWP7ListAppTemplate\AppHost\obj\Release\WindowsPhoneListAppHost.dll" archivePath="WindowsPhoneListAppHost.dll" lastWriteTime="10/3/2010 2:49:24 PM" />
-  <file source="C:\git\FSharpWP7ListAppTemplate\App\bin\Release\WindowsPhoneListApp.dll" archivePath="WindowsPhoneListApp.dll" lastWriteTime="10/3/2010 2:49:23 PM" />
-  <file source="C:\git\FSharpWP7ListAppTemplate\App\bin\Release\FSharp.Core.dll" archivePath="FSharp.Core.dll" lastWriteTime="9/18/2010 2:39:49 PM" />
-  <file source="C:\git\FSharpWP7ListAppTemplate\AppHost\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="9/18/2010 2:39:49 PM" />
-  <file source="C:\git\FSharpWP7ListAppTemplate\AppHost\Background.png" archivePath="Background.png" lastWriteTime="9/18/2010 2:39:49 PM" />
-  <file source="C:\git\FSharpWP7ListAppTemplate\AppHost\Images\ArrowImg.png" archivePath="Images\ArrowImg.png" lastWriteTime="9/18/2010 2:39:49 PM" />
-  <file source="C:\git\FSharpWP7ListAppTemplate\AppHost\readme.txt" archivePath="readme.txt" lastWriteTime="9/18/2010 2:39:49 PM" />
-  <file source="C:\git\FSharpWP7ListAppTemplate\AppHost\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="9/18/2010 2:39:49 PM" />
-  <file source="C:\git\FSharpWP7ListAppTemplate\AppHost\Bin\Release\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="10/3/2010 2:49:25 PM" />
+﻿<xapCache source="C:\git\FSharpWP7ListAppTemplate\AppHost\Bin\Release\WindowsPhoneListAppHost.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="6/24/2011 11:09:15 AM">
+  <file source="C:\git\FSharpWP7ListAppTemplate\AppHost\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="6/24/2011 10:49:14 AM" />
+  <file source="C:\git\FSharpWP7ListAppTemplate\AppHost\obj\Release\WindowsPhoneListAppHost.dll" archivePath="WindowsPhoneListAppHost.dll" lastWriteTime="6/24/2011 11:09:15 AM" />
+  <file source="C:\git\FSharpWP7ListAppTemplate\App\bin\Release\WindowsPhoneListApp.dll" archivePath="WindowsPhoneListApp.dll" lastWriteTime="6/24/2011 11:09:14 AM" />
+  <file source="C:\git\FSharpWP7ListAppTemplate\App\bin\Release\FSharp.Core.dll" archivePath="FSharp.Core.dll" lastWriteTime="6/24/2011 10:49:14 AM" />
+  <file source="C:\git\FSharpWP7ListAppTemplate\AppHost\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="6/24/2011 10:49:14 AM" />
+  <file source="C:\git\FSharpWP7ListAppTemplate\AppHost\Background.png" archivePath="Background.png" lastWriteTime="6/24/2011 10:49:14 AM" />
+  <file source="C:\git\FSharpWP7ListAppTemplate\AppHost\Images\ArrowImg.png" archivePath="Images\ArrowImg.png" lastWriteTime="6/24/2011 10:49:14 AM" />
+  <file source="C:\git\FSharpWP7ListAppTemplate\AppHost\readme.txt" archivePath="readme.txt" lastWriteTime="6/24/2011 10:49:14 AM" />
+  <file source="C:\git\FSharpWP7ListAppTemplate\AppHost\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="6/24/2011 10:49:14 AM" />
+  <file source="C:\git\FSharpWP7ListAppTemplate\AppHost\Bin\Release\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="6/24/2011 11:09:15 AM" />
 </xapCache>
