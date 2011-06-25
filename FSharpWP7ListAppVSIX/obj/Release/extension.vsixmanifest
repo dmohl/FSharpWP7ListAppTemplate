@@ -6,7 +6,7 @@
     <Version>1.2</Version>
     <Description xml:space="preserve">Note:Install the WP7 developer tools (http://developer.windowsphone.com/) before use.</Description>
     <Locale>1033</Locale>
-    <MoreInfoUrl>http://blogs.msdn.com/b/dsyme/archive/2010/08/17/demos-for-tonight-s-quot-community-for-f-quot-online-live-meeting.aspx</MoreInfoUrl>
+    <MoreInfoUrl>http://blogs.msdn.com/b/dsyme/archive/2010/08/20/f-windows-phone-7-silverlight-templates-now-on-visual-studio-gallery.aspx</MoreInfoUrl>
     <License>MicrosoftPublicLicense.txt</License>
     <Icon>FSharpWP7ListAppScreenShot.png</Icon>
     <PreviewImage>FSharpWP7ListAppScreenShot.png</PreviewImage>
@@ -15,7 +15,6 @@
         <Edition>Ultimate</Edition>
         <Edition>Premium</Edition>
         <Edition>Pro</Edition>
-        <Edition>IntegratedShell</Edition>
       </VisualStudio>
     </SupportedProducts>
     <SupportedFrameworkRuntimeEdition MinVersion="4.0" MaxVersion="4.0" />

@@ -18,3 +18,4 @@ C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Dan
 C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Win Phone List App(Silverlight)\1.2\ProjectTemplates\WP7\\FSharpWP7ListApp.zip
 C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Win Phone List App(Silverlight)\1.2\\FSharpWP7ListAppScreenShot.png
 C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Win Phone List App(Silverlight)\1.2\\MicrosoftPublicLicense.txt
+C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Win Phone List App(Silverlight)\1.2\ItemTemplates\Code\\FsWP7CodeFile.zip
